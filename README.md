@@ -1,4 +1,4 @@
-###================================= Project 1- Blog-Beginner ======================================
+### Project 1- Blog-Beginner 
 
 Django new infos:
 
@@ -15,3 +15,5 @@ Django new infos:
 6. SET(...): Set a given value. This one is not part of the SQL standard and is entirely handled by Django.
 
 7. DO_NOTHING: Probably a very bad idea since this would create integrity issues in your database (referencing an object that       actually doesn't exist). SQL equivalent: NO ACTION. (2)
+
+# GOTTA KEEP UP
